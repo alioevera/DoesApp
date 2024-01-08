@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698293231120",
+    "project_id": "doesapp-c9bd0",
+    "storage_bucket": "doesapp-c9bd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698293231120:android:f6869da7fb37922b89f495",
+        "android_client_info": {
+          "package_name": "com.example.doesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAvmyZjqwNoxEW2wTocbiXERkR_pZLbzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

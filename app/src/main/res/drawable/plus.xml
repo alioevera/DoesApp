@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/ic_plus.xml -->
+<!-- res/drawable/ic_plus.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="50dp"
+    android:height="50dp"
+    android:viewportWidth="50.0"
+    android:viewportHeight="50.0">
+
+    <path
+        android:fillColor="#FFFF"
+        android:pathData="M 25 2 C 12.3093 2 2 12.3093 2 25 C 2 37.6907 12.3093 48 25 48 C 37.6907 48 48 37.6907 48 25 C 48 12.3093 37.6907 2 25 2 z M 25 4 C 36.6098 4 46 13.3902 46 25 C 46 36.6098 36.6098 46 25 46 C 13.3902 46 4 36.6098 4 25 C 4 13.3902 13.3902 4 25 4 z M 24 13 L 24 24 L 13 24 L 13 26 L 24 26 L 24 37 L 26 37 L 26 26 L 37 26 L 37 24 L 26 24 L 26 13 L 24 13 z"/>
+</vector>
+

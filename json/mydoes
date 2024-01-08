@@ -1,0 +1,19 @@
+{
+    "DoesApp": {
+        "Does1" : {
+            "titledoes" :  "meeting with mr. Smith",
+            "descdoes" : "meet him at PNJ, 8AM",
+            "datedoes" : "tomorrow"
+        },
+        "Does2" : {
+            "titledoes" : "Go to market",
+            "descdoes" : "We are about to make a salad",
+            "datedoes" : "Desember 17"
+        },
+        "Does3" : {
+            "titledoes" : "Prepare for presentation",
+            "descdoes" : "presentation about forward chaining",
+            "datedoes" : "Desember 12"
+        }
+    }
+}
